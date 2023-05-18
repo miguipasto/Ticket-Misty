@@ -1,7 +1,15 @@
 # Ticket-misty
 
 Web para mostrar el funcionamiento de una base de datos relacion en MYSQL. En esta base de datos modelamos un e-commerce y realizamos todos los procedimientos necesarios para que una API pueda hacer consultas sencillas.
-
+## Autores
+- https://github.com/Carcalmoa
+- https://github.com/henarmarino
+- https://github.com/miguipasto
+- https://github.com/naoufal21
+## Modelo Entidad Asociación
+![image](https://github.com/miguipasto/Ticket-Misty/assets/127023319/a6f999fb-b652-4155-8f13-753efef84cc6)
+## Modelo Relacional 
+![image](https://github.com/miguipasto/Ticket-Misty/assets/127023319/28301ccc-090b-44ff-8711-c252f5b9c845)
 ## Estadísticas de la base de datos
 ![image](https://github.com/miguipasto/Ticket-Misty/assets/127023319/064dac86-9111-4d03-a323-159aaf917ab1)
 ## Capturas de la WEB
